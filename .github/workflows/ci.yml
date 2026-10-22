@@ -30,6 +30,8 @@ jobs:
           --accept 200,204,206,429
           --exclude-mail
           --exclude 'https://www.xuhui.gov.cn'
+          --exclude '^https://(www\.|fgw\.)?sz\.gov\.cn/'
+          --exclude '^https://www\.szns\.gov\.cn/'
           '**/*.md'
         fail: true
       env:
