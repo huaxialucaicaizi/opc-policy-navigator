@@ -44,7 +44,7 @@ Find China startup policies, subsidies and OPC community support you can apply f
 
 一个面向中国一人公司（OPC）和早期创业者的 Agent Skill：按**城市 / 区 + 赛道 + 阶段**，先比对国家级政策、再比对地方政策（北京、上海、广州、深圳及杭州），把结果分成"大概率可申 / 需确认条件 / 暂不适用"三档，并给出官方链接、材料清单和申报文案框架。
 
-> 这是「一人公司工具包」的第 3 步。上一步写 BP 可用 [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)；下一步路演教练即将推出。
+> 这是「一人公司工具包」的第 3 步。上一步写 BP 可用 [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)；下一步路演可用 [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach)。
 
 **痛点**
 - 政策文件多、分散在各级政府网站，不知道哪些和自己有关
@@ -163,11 +163,11 @@ scripts/validate.py
 |---|---|
 | 1. AI 产品 MVP 验证 | [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) |
 | 2. 商业计划书 | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
-| 3. 政策与补贴 | 本仓库 |
-| 4. 路演教练 | 即将推出 |
+| 3. 政策与补贴 | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator)（本仓库） |
+| 4. 路演教练 | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) |
 | 5. 增长获客 | 即将推出 |
-| 6. 定价与成交 | 即将推出 |
-| 7. 注册与合规 | 即将推出 |
+| 6. 定价与成交 | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
+| 7. 注册与合规 | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) |
 | 串联大仓库 | 即将推出 |
 
 <a id="zh-faq"></a>
@@ -241,7 +241,7 @@ A：欢迎提 Issue 或 PR，并附政策原文的官方政府网站链接。
 
 An Agent Skill for one-person companies (OPC) and early-stage founders in China: given city / district, industry and stage, it matches national policies first, then local ones (Beijing, Shanghai, Guangzhou, Shenzhen, plus Hangzhou), sorts them into "likely eligible / needs confirmation / not applicable", and outputs official links, a materials checklist and an application outline.
 
-> Step 3 of the "One-Person Company Toolkit". Previous step: [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill). Next step (roadshow coach) is coming soon.
+> Step 3 of the "One-Person Company Toolkit". Previous step: [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill). Next step: rehearse your pitch with [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach).
 
 **The problem**
 - Policies are scattered across many government sites
@@ -360,11 +360,11 @@ scripts/validate.py
 |---|---|
 | 1. AI MVP Validation | [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) |
 | 2. Business Plan | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
-| 3. Policy & Subsidies | This repo |
-| 4. Roadshow Coach | Coming soon |
+| 3. Policy & Subsidies | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) (this repo) |
+| 4. Roadshow Coach | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) |
 | 5. Growth | Coming soon |
-| 6. Pricing & Closing | Coming soon |
-| 7. Registration & Compliance | Coming soon |
+| 6. Pricing & Closing | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
+| 7. Registration & Compliance | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) |
 | Full toolkit repo | Coming soon |
 
 <a id="en-faq"></a>
