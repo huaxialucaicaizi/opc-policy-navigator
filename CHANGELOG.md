@@ -18,6 +18,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Policy database verification date updated to 2026-11-01
 
 ### Fixed
+- CI 链接检查：排除海淀区政务网站 zyk.bjhd.gov.cn（GitHub runner 上偶发网络错误，本地 curl 仍为 200）；政策条目本身未改
+- CI link check: excluded Haidian government host zyk.bjhd.gov.cn (intermittent network errors on GitHub runners; local curl still returns 200)
 - 上海政策库 SH-XH-02：补上官方页面标注的文号「徐市监营商〔2026〕91号」（原写“页面未标注文号”），2026-10-26 在徐汇区政府官网原文页核对
 - Shanghai DB SH-XH-02: added the document number shown on the official Xuhui District page (previously listed as "not shown")
 - CI 链接检查：排除 star-history 统计图接口（第三方服务间歇性返回 403，曾导致 main 分支 CI 失败）；政府官方链接仍照常检查
