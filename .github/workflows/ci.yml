@@ -30,6 +30,7 @@ jobs:
           --accept 200,204,206,429
           --exclude-mail
           --exclude 'https://www.xuhui.gov.cn'
+          --exclude '^https://zyk\.bjhd\.gov\.cn/'
           --exclude '^https://(www\.|fgw\.)?sz\.gov\.cn/'
           --exclude '^https://www\.szns\.gov\.cn/'
           --exclude '^https://api\.star-history\.com/'
