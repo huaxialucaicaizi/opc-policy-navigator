@@ -211,7 +211,7 @@ A：欢迎提 Issue 或 PR，并附政策原文的官方政府网站链接。
 <a id="zh-license"></a>
 ### 许可
 
-本项目禁止商业用途；个人学习与非商业使用可免费使用。如转载请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。详见 [LICENSE](./LICENSE)。
+本项目禁止商业用途；个人学习与非商业使用可免费使用。将本项目上架或收录到第三方 AI 产品、Skill 商店须事先获得作者许可。如转载或申请许可，请通过 GitHub 联系作者 [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)。详见 [LICENSE](./LICENSE)。
 
 [↑ 返回顶部](#top)
 
@@ -408,6 +408,6 @@ If this skill helps you, a Star ⭐ is appreciated.
 <a id="en-license"></a>
 ### License
 
-Non-commercial use only. Free for personal learning and non-commercial use. For republication, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. See [LICENSE](./LICENSE).
+Non-commercial use only. Free for personal learning and non-commercial use. Listing this project on third-party AI products or Skill stores requires prior author permission. For republication or permission, contact [@huaxialucaicaizi](https://github.com/huaxialucaicaizi) on GitHub. See [LICENSE](./LICENSE).
 
 [↑ Back to top](#top)
