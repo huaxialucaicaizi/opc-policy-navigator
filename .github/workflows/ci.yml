@@ -33,6 +33,7 @@ jobs:
           --exclude 'https://www.xuhui.gov.cn'
           --exclude '^https://zyk\.bjhd\.gov\.cn/'
           --exclude '^https?://(www\.)?bjchy\.gov\.cn/'
+          --exclude '^https://(www\.)?ncsti\.gov\.cn/'
           --exclude '^https://(www\.|fgw\.)?sz\.gov\.cn/'
           --exclude '^https://www\.szns\.gov\.cn/'
           --exclude '^https://api\.star-history\.com/'
